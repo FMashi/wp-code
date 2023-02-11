@@ -1,0 +1,112 @@
+.site {
+    background-color: #ffc0cb;
+            }
+    
+    .woocommerce-MyAccount-content .button.cancel  {display:none !important} 
+    
+    .woocommerce-MyAccount-navigation{
+        display:none;
+    }
+    .woocommerce-account .woocommerce-MyAccount-content {
+    width:100%;
+    }
+    
+    .woocommerce-account .woocommerce .woocommerce-MyAccount-content {
+    width: 100%;
+    float: none;
+    }
+    
+    .astra-cart-drawer.active{
+            width: 250px;
+    }
+    .woocommerce-MyAccount-content .button.cancel  {display:none !important} 
+    
+    .wc-block-checkout__form{
+    
+        margin-left:30px;
+        margin-right:30px;
+    }
+    .wp-block-woocommerce-checkout-order-summary-block{
+        margin-left:30px;
+        margin-right:30px;
+    }
+    .woocommerce-order{
+        margin-left:30px;
+        margin-right:30px;
+        
+    }
+    
+    
+    
+    
+    
+    
+    .woocommerce span.onsale{
+        display:none;
+    }
+    .woocommerce div.product .product_title {
+           font-weight:bold;
+     } 
+    .woocommerce div.product .button
+     {
+         box-shadow: 0px 1px 0px 0px #0000;
+         text-decoration:none;
+         text-shadow:0px 1px 0px #ffffff;
+     } 
+    
+    .woocommerce-result-count {
+      display: none;
+    }
+    .product_meta{
+        display: none;
+    }
+    .star-rating{
+        display: none;
+    }
+    .astra-shop-summary-wrap {
+        text-align: center;
+    }
+    .woocommerce-checkout.customize-unpreviewable{
+        margin-left:30px;
+        margin-right:30px;
+    }
+    .entry-meta{
+         display: none;
+    }
+    
+    .woocommerce ul.products li.product {
+        box-shadow: 0px 10px 20px 0px rgba(0,0,0,0.1);
+        background-color: #fff;
+        border-radius: 10px;
+        overflow: hidden;
+        margin-bottom: 30px;
+    }
+    
+    .woocommerce ul.products li.product img {
+        width: 100%;
+        height: auto;
+    }
+    
+    .woocommerce ul.products li.product h2 {
+        font-size: 20px;
+        margin: 20px 0 10px;
+        text-align: center;
+    }
+    
+    .woocommerce ul.products li.product .price {
+        font-size: 16px;
+        color: #333;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    
+    .woocommerce ul.products li.product .button {
+        display: block;
+        background-color: #173B4E;
+        color: #fff;
+        padding: 10px 20px;
+        border-radius: 5px;
+        text-align: center;
+        margin: 0 auto;
+    }
+    
