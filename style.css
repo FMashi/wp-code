@@ -366,4 +366,40 @@ table.shop_table.woocommerce-checkout-review-order-table td {
 
 
 
+  /* Add style to the pagination  */
+.woocommerce-pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  
+  }
+  
+  .woocommerce-pagination .page-numbers {
+    background-color: #fff;
+    color: #173B4E;
+    border: 1px solid #FFC0CB;
+    border-radius: 3px;
+    padding: 10px 20px;
+    margin: 0 10px;
+    text-decoration: none;
+  }
+  
+  .woocommerce-pagination .page-numbers:hover {
+    background-color: #FFC0CB;
+    color: #173B4E;
+    cursor: pointer;
+  }
+  
+  .woocommerce-pagination .page-numbers.current {
+    background-color: #FFC0CB;
+    color: #173B4E;
+    cursor: default;
+  }
+  
+  
+  
+  
+  
+  
   
