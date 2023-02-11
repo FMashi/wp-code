@@ -378,7 +378,7 @@ table.shop_table.woocommerce-checkout-review-order-table td {
   .woocommerce-pagination .page-numbers {
     background-color: #fff;
     color: #173B4E;
-    border: 1px solid #FFC0CB;
+    border: 1px solid #173B4E;
     border-radius: 3px;
     padding: 10px 20px;
     margin: 0 10px;
@@ -395,6 +395,22 @@ table.shop_table.woocommerce-checkout-review-order-table td {
     background-color: #FFC0CB;
     color: #173B4E;
     cursor: default;
+  }
+  
+  
+
+  /* Add style to the breadcrumb  */
+.woocommerce-breadcrumb {
+    color: #173B4E;
+    padding: 10px;
+  
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+  }
+  
+  .woocommerce-breadcrumb a {
+    color: #173B4E;
   }
   
   
